@@ -1,8 +1,6 @@
 {
 	"description": "AsciiDoc Mode Demo",
 	"plugins": [
-        "tiddlywiki/filesystem",
-        "tiddlywiki/tiddlyweb",
 		"tiddlywiki/codemirror",
 		"zeekozhu/codemirror-mode-asciidoc"
 	],

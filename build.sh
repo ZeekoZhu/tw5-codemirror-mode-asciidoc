@@ -2,4 +2,6 @@
 
 export TIDDLYWIKI_PLUGIN_PATH=plugins
 
-tiddlywiki editions/demo --server 8081
+rm -rf ./docs
+tiddlywiki editions/demo --build index
+mv ./editions/demo/output ./docs
