@@ -1,0 +1,10 @@
+{
+    "title": "$:/plugins/zeekozhu/codemirror-mode-asciidoc",
+    "description": "CodeMirror Mode AsciiDoc",
+    "author": "ZeekoZhu",
+    "version": "0.0.1",
+    "parent-plugin": "$:/plugins/tiddlywiki/codemirror",
+    "source": "https://github.com/ZeekoZhu/tw5-codemirror-mode-asciidoc",
+    "plugin-type": "plugin",
+    "list": "readme"
+}

@@ -1,0 +1,12 @@
+author: bimlas
+core-version: >=5.0.0
+created: 20200217103914253
+dependents: 
+description: Asciidoctor parser
+list: readme usage
+modified: 20200217103914253
+plugin-type: plugin
+source: https://gitlab.com/bimlas/tw5-asciidoctor
+title: $:/plugins/bimlas/asciidoctor
+type: application/json
+version: 1.0.0

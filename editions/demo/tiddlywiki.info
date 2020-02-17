@@ -1,0 +1,19 @@
+{
+	"description": "AsciiDoc Mode Demo",
+	"plugins": [
+        "tiddlywiki/filesystem",
+        "tiddlywiki/tiddlyweb",
+		"tiddlywiki/codemirror",
+		"zeekozhu/codemirror-mode-asciidoc"
+	],
+	"themes": [
+		"tiddlywiki/vanilla",
+		"tiddlywiki/snowwhite"
+	],
+	"includeWikis": [
+	],
+	"build": {
+		"index": [
+			"--rendertiddler","$:/core/save/all","index.html","text/plain"]
+	}
+}

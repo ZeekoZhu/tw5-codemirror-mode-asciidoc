@@ -1,0 +1,12 @@
+{
+    "tiddlers": [
+        {
+            "file": "mode/asciidoc/asciidoc.js",
+            "fields": {
+                "type": "application/javascript",
+                "title": "$:/plugins/tiddlywiki/codemirror/mode/asciidoc/asciidoc.js",
+                "module-type": "codemirror"
+            }
+        }
+    ]
+}

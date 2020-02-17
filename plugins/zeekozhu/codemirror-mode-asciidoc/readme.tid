@@ -1,0 +1,13 @@
+title: $:/plugins/zeekozhu/codemirror-mode-asciidoc/readme
+
+This plugin adds Syntax Highlighting for AsciiDoc tiddlers (text/asciidoc) to the [[CodeMirror|http://codemirror.net]] text editor. It needs the latest [[CodeMirror plugin|$:/plugins/tiddlywiki/codemirror]] to be installed.
+
+To parse AsciiDoc text, use [[AsciiDoc Parser|https://bimlas.gitlab.io/tw5-asciidoctor/]].
+
+[[Source Code|https://github.com/ZeekoZhu/tw5-codemirror-mode-asciidoc]]
+
+!! Installation
+
+To add the plugin to your own TiddlyWiki5, just drag this link to the browser window:
+
+[[$:/plugins/zeekozhu/codemirror-mode-asciidoc]]
